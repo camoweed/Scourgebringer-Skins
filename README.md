@@ -4,8 +4,7 @@
        
 !!Always back up your saves!! I've never encountered a problem but its better to be safe.
 
-To access the modded textures, simply pick a release you like the sound of and download the source code .zip
-The .zip will include the altered .xnb files
+To access the modded textures, simply pick a release you like the sound of and download the source code the altered .xnb files.
 
 =======================================================================================
 
